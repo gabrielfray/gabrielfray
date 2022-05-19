@@ -1,6 +1,6 @@
 ### Oi eu sou Gabriel Fray 🤠
 ##
-- 🔭 Atualmente estou estudando para me tornar um Full Stack
+- 🔭 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack
 - 🌱 Estudando JavaScript
 - 📫 Contate-me: gabrielfraygarandy@gmail.com
 - ⚡ Fato curioso: Nunca quebrei nem um osso ☠ 
