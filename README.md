@@ -3,12 +3,12 @@
 - 🔭 Atualmente estou estudando para me tornar um Full Stack
 - 🌱 Estudando JavaScript
 - 📫 Contate-me: gabrielfraygarandy@gmail.com
-- ⚡ Fato curioso: Nunca quebrei nem um osso 
+- ⚡ Fato curioso: Nunca quebrei nem um osso ☠ 
 
 ##
 
 <div align="center">
-  <a href="https://github.com/adamsnows">
+  <a href="https://github.com/GabrielFray">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabrielFray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&langs_count=7&theme=dark"/>
 </div>
