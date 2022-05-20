@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ SHA256:1vuX8ZqaW5bgTnCWPl/dhjgac3HWYRxh/bbz3iBpLSU }}
+          GITHUB_TOKEN: ${{ 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 }}
           USERNAME: ${{ https://github.com/GabrielFray?tab=repositories }}
       - name: Commit & Push
         run: |
