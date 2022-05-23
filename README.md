@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack
 - 🌱 Estudando JavaScript
 - 📫 Contate-me: gabrielfray077@gmail.com
-- 🦆 Em casa de bug converse com seu pato.
+- 🦆 Em caso de bug converse com seu pato.
 
 ##
 
