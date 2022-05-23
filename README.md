@@ -9,13 +9,13 @@
 
 <div align="center">
   <a href="https://github.com/GabrielFray">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GabrielFray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielFray&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFray&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GabrielFray&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
   
