@@ -1,6 +1,6 @@
 ### Oi eu sou Gabriel Fray 
 ##
-- 🔭 Atualmente estou estudando para me tornar um Desenvolvedor Full Stack
+- 🔭 Atualmente estou estudando na Kenzie Academy Brasil para me tornar um Desenvolvedor Full Stack 
 - 🌱 Estudando JavaScript
 - 📫 Contate-me: gabrielfray077@gmail.com
 - 🦆 Em caso de bug converse com seu pato.
@@ -25,9 +25,9 @@
   <img align="center"alt="gabs-HTML"height="30"width="48"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center"alt="gabs-CSS"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center"alt="gabs-3s"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"alt="gabs-Ts"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center"alt="gabs-React"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center"alt="gabs-Python"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"alt="gabs-Python"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  
   
 ##
   
