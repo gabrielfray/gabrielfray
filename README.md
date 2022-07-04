@@ -1,4 +1,4 @@
-### Hi There! I'm Gabriel Fray  <img height="40em"  src=https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif/>
+### Hi There! I'm Gabriel Fray  <img height="40em" src=https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif/>
 ##
 - 🔭 Atualmente estou estudando na Kenzie Academy Brasil para me tornar um Desenvolvedor Full Stack 
 - 🌱 Estudando JavaScript
