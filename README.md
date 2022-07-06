@@ -23,8 +23,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GabrielFray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 </div>
-  
-
 
 <h2 align="center">🖥️ Languages</h2>
 <div align="center" style="display:inline_block"><br>
@@ -35,7 +33,6 @@
   <img align="center"alt="gabs-Python"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
   
-##
   
 ![Snake animation](https://github.com/GabrielFray/GabrielFray/blob/output/github-contribution-grid-snake.svg)
 
