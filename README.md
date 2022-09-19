@@ -18,27 +18,36 @@
   
  ### Analycts
 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielfray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+  <p><img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfray&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabrielfray" /></p>
+ 
   <a href="https://github.com/GabrielFray">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GabrielFray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
-<h2 align="center">🖥️ Languages</h2>
-<div align="center" style="display:inline_block"><br>
-  <img align="center"alt="HTML"height="30"width="48"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center"alt="CSS"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center"alt="JavaScript"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center"alt="React"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center"alt="TypeScript"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center"alt="Git"height="30"width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=gabrielfray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
   
-  
-![Snake animation](https://github.com/GabrielFray/GabrielFray/blob/output/github-contribution-grid-snake.svg)
+### Languages and tools I used in some of my projects
 
+<div style="display: inline_block">
+<br/>
+    <img align="center" alt="HTML5 icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="CSS3 icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="Javascript icon" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="Typescript icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="React icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="Node icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="Git icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="Figma icon" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="Heroku icon" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img align="center" alt="Vercel icon" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    
+</div><br/>
+  
+ <div align="center">
+ 
+    ![Snake animation](https://github.com/GabrielFray/GabrielFray/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
 
  
  
