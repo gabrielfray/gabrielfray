@@ -49,6 +49,7 @@
     <img align="center" alt="Trelo icon" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
     <img align="center" alt="Git icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Jira icon" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+    <img align="center" alt="Express icon" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div><br/>
   
  <div align="center">
