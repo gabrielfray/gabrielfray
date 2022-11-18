@@ -19,7 +19,7 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielfray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-  <p><img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfray&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabrielfray" /></p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=default&theme=dark)](https://github.com/enilson100/github-readme-stats)
  
   <a href="https://github.com/GabrielFray">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=gabrielfray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
