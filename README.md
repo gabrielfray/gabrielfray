@@ -3,7 +3,7 @@
 
 <ul>
     <li> 🔭  I am currently a Full Stack Development student at <a href="https://kenzie.com.br/?trk_src=g&trk_cmp=15853756022&trk_grp=137371409172&trk_ad=574454391791&trk_kw=kenzie%20academy&utm_term=kenzie%20academy&utm_campaign=INSC-PER-2022-TERMOS-MARCA-SEARCH&utm_source=adwords&utm_medium=ppc&hsa_acc=2166776305&hsa_cam=15853756022&hsa_grp=137371409172&hsa_ad=574454391791&hsa_src=g&hsa_tgt=aud-1371784716651:kwd-392539756225&hsa_kw=kenzie%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvzjbrh1GPo7YPjoAgLAA75UcAP-YlGq8eeDyMdHR0o4OcRkNfRK-cYaArTsEALw_wcB">Kenzie Academy Brasil.</a></li>
-    <li> 📚 I'm currently learning <img align="center" alt="Node icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the- badge&logo=node.js&logoColor=white"> and <img align="center" alt="Express icon" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> </li>
+    <li> 📚 I'm currently learning <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> </li>
     <li> 🦆 In case of a bug, talk to your duck </li>
     <li> 📫 Contact me ⤵️ </li>
 </ul>
