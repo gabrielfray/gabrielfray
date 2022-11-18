@@ -16,9 +16,10 @@
 
   
  ### Analycts
+ <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielfray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielfray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=default&theme=dark)](https://github.com/enilson100/github-readme-stats)
  
   <a href="https://github.com/GabrielFray">
@@ -26,19 +27,21 @@
   
   
 ### Languages and tools I used in some of my projects
-
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<br/>
 <br/>
   <p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,django,git,figma,heroku,vercel,tailwind,postgres,docker,express,aws,jest,materialui,mongodb,prisma,vscode,vite" />
     </a>
   </p>
-  
+    
+ <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
  <div>
-
   ![Snake animation](https://github.com/GabrielFray/gabrielfray/blob/output/github-contribution-grid-snake.svg)
-
  </div>
-
- 
+ <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+    
+ <p><em>"Melhor professor, o fracasso é." <br/> -Yoda</em></p>
+<br>
  
