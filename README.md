@@ -29,26 +29,31 @@
 
 <div style="display: inline_block">
 <br/>
-    <img align="center" alt="HTML5 icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS3 icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Javascript icon" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="Typescript icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="React icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Node icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Git icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="Figma icon" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img align="center" alt="Heroku icon" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <img align="center" alt="Vercel icon" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-    <img align="center" alt="Tailwind icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img align="center" alt="Postgresql icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="Heroku icon" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <img align="center" alt="JWT icon" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
-    <img align="center" alt="VS code icon" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-    <img align="center" alt="Notion icon" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img align="center" alt="Trelo icon" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-    <img align="center" alt="Git icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="Jira icon" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-    <img align="center" alt="Express icon" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img align="center" alt="HTML5 icon" src="https://skillicons.dev/icons?i=html">
+    <img align="center" alt="CSS3 icon" src="https://skillicons.dev/icons?i=css">
+    <img align="center" alt="JS icon" src="https://skillicons.dev/icons?i=js">
+    <img align="center" alt="TS icon" src="https://skillicons.dev/icons?i=ts">
+    <img align="center" alt="REACT icon" src="https://skillicons.dev/icons?i=react">
+    <img align="center" alt="NEXTJS icon" src="https://skillicons.dev/icons?i=nextjs">
+    <img align="center" alt="NODEJS icon" src="https://skillicons.dev/icons?i=nodejs">
+    <img align="center" alt="PYTHON icon" src="https://skillicons.dev/icons?i=py">
+    <img align="center" alt="DJANGO icon" src="https://skillicons.dev/icons?i=django">
+    <img align="center" alt="GIT icon" src="https://skillicons.dev/icons?i=git">
+    <img align="center" alt="FIGMA icon" src="https://skillicons.dev/icons?i=figma">
+    <img align="center" alt="HEROKU icon" src="https://skillicons.dev/icons?i=heroku">
+    <img align="center" alt="VERCEL icon" src="https://skillicons.dev/icons?i=vercel">
+    <img align="center" alt="TAILWINDCSS icon" src="https://skillicons.dev/icons?i=tailwind">
+    <img align="center" alt="POSTGRESQL icon" src="https://skillicons.dev/icons?i=postgres">
+    <img align="center" alt="NOTION icon" src="https://skillicons.dev/icons?i=notion">
+    <img align="center" alt="DOCKER icon" src="https://skillicons.dev/icons?i=docker">
+    <img align="center" alt="EXPRESSJS icon" src="https://skillicons.dev/icons?i=express">
+    <img align="center" alt="AWS icon" src="https://skillicons.dev/icons?i=aws">
+    <img align="center" alt="JEST icon" src="https://skillicons.dev/icons?i=jest">
+    <img align="center" alt="MUI icon" src="https://skillicons.dev/icons?i=materialui">
+    <img align="center" alt="MONGODB icon" src="https://skillicons.dev/icons?i=mongodb">
+    <img align="center" alt="PRISMA icon" src="https://skillicons.dev/icons?i=prisma">
+    <img align="center" alt="VITE icon" src="https://skillicons.dev/icons?i=vite">
+    <img align="center" alt="VSCODE icon" src="https://skillicons.dev/icons?i=vscode">
 </div><br/>
   
  <div align="center">
