@@ -35,13 +35,11 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,django,git,figma,heroku,vercel,tailwind,postgres,docker,express,aws,jest,materialui,mongodb,prisma,vscode,vite" />
     </a>
   </p>
-    
- <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
  <div>
+     
   ![Snake animation](https://github.com/GabrielFray/gabrielfray/blob/output/github-contribution-grid-snake.svg)
- </div>
- <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-    
+     
+ </div>  
  <p><em>"Melhor professor, o fracasso é." <br/> -Yoda</em></p>
 <br>
  
