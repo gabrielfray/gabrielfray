@@ -27,35 +27,14 @@
   
 ### Languages and tools I used in some of my projects
 
-<div style="display: inline_block">
 <br/>
-    <img align="center" alt="HTML5 icon" src="https://skillicons.dev/icons?i=html">
-    <img align="center" alt="CSS3 icon" src="https://skillicons.dev/icons?i=css">
-    <img align="center" alt="JS icon" src="https://skillicons.dev/icons?i=js">
-    <img align="center" alt="TS icon" src="https://skillicons.dev/icons?i=ts">
-    <img align="center" alt="REACT icon" src="https://skillicons.dev/icons?i=react">
-    <img align="center" alt="NEXTJS icon" src="https://skillicons.dev/icons?i=nextjs">
-    <img align="center" alt="NODEJS icon" src="https://skillicons.dev/icons?i=nodejs">
-    <img align="center" alt="PYTHON icon" src="https://skillicons.dev/icons?i=py">
-    <img align="center" alt="DJANGO icon" src="https://skillicons.dev/icons?i=django">
-    <img align="center" alt="GIT icon" src="https://skillicons.dev/icons?i=git">
-    <img align="center" alt="FIGMA icon" src="https://skillicons.dev/icons?i=figma">
-    <img align="center" alt="HEROKU icon" src="https://skillicons.dev/icons?i=heroku">
-    <img align="center" alt="VERCEL icon" src="https://skillicons.dev/icons?i=vercel">
-    <img align="center" alt="TAILWINDCSS icon" src="https://skillicons.dev/icons?i=tailwind">
-    <img align="center" alt="POSTGRESQL icon" src="https://skillicons.dev/icons?i=postgres">
-    <img align="center" alt="DOCKER icon" src="https://skillicons.dev/icons?i=docker">
-    <img align="center" alt="EXPRESSJS icon" src="https://skillicons.dev/icons?i=express">
-    <img align="center" alt="AWS icon" src="https://skillicons.dev/icons?i=aws">
-    <img align="center" alt="JEST icon" src="https://skillicons.dev/icons?i=jest">
-    <img align="center" alt="MUI icon" src="https://skillicons.dev/icons?i=materialui">
-    <img align="center" alt="MONGODB icon" src="https://skillicons.dev/icons?i=mongodb">
-    <img align="center" alt="PRISMA icon" src="https://skillicons.dev/icons?i=prisma">
-    <img align="center" alt="VITE icon" src="https://skillicons.dev/icons?i=vite">
-    <img align="center" alt="VSCODE icon" src="https://skillicons.dev/icons?i=vscode">
-</div><br/>
+  <p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,django,git,figma,heroku,vercel,tailwind,postgres,docker,express,aws,jest,materialui,mongodb,prisma,vscode,vite" />
+    </a>
+  </p>
   
- <div align="center">
+ <div>
 
   ![Snake animation](https://github.com/GabrielFray/gabrielfray/blob/output/github-contribution-grid-snake.svg)
 
