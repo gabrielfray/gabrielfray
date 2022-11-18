@@ -44,7 +44,6 @@
     <img align="center" alt="VERCEL icon" src="https://skillicons.dev/icons?i=vercel">
     <img align="center" alt="TAILWINDCSS icon" src="https://skillicons.dev/icons?i=tailwind">
     <img align="center" alt="POSTGRESQL icon" src="https://skillicons.dev/icons?i=postgres">
-    <img align="center" alt="NOTION icon" src="https://skillicons.dev/icons?i=notion">
     <img align="center" alt="DOCKER icon" src="https://skillicons.dev/icons?i=docker">
     <img align="center" alt="EXPRESSJS icon" src="https://skillicons.dev/icons?i=express">
     <img align="center" alt="AWS icon" src="https://skillicons.dev/icons?i=aws">
