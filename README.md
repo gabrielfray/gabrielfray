@@ -16,11 +16,11 @@
 
   
  ### Analycts
- <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielfray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=default&theme=dark)](https://github.com/enilson100/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=default&theme=dark)](https://github.com/GabrielFray/github-readme-stats)
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielfray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
  
   <a href="https://github.com/GabrielFray">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=gabrielfray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
