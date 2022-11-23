@@ -1,6 +1,5 @@
 ### Hi There! I'm Gabriel Fray  <img height="30em" src=https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielFray&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Fray" /> </p>
 
 <ul>
     <li> 🔭  I am currently a Full Stack Development student at <a href="https://kenzie.com.br/?trk_src=g&trk_cmp=15853756022&trk_grp=137371409172&trk_ad=574454391791&trk_kw=kenzie%20academy&utm_term=kenzie%20academy&utm_campaign=INSC-PER-2022-TERMOS-MARCA-SEARCH&utm_source=adwords&utm_medium=ppc&hsa_acc=2166776305&hsa_cam=15853756022&hsa_grp=137371409172&hsa_ad=574454391791&hsa_src=g&hsa_tgt=aud-1371784716651:kwd-392539756225&hsa_kw=kenzie%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvzjbrh1GPo7YPjoAgLAA75UcAP-YlGq8eeDyMdHR0o4OcRkNfRK-cYaArTsEALw_wcB">Kenzie Academy Brasil.</a></li>
@@ -15,8 +14,10 @@
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/330007901718577153)
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Gabriel%20Fray)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielFray&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Fray" /> </p>
   
  ### Analycts
+ <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielfray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
