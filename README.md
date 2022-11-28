@@ -20,7 +20,7 @@
     
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/102542187/204383993-a178a42a-4564-4eca-a03a-63a1b02f4fc9.png"/>
+<img align="right" src="./dancing.gif"/>
 
  
 <h3>Skills</h3>
