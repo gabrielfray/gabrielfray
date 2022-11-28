@@ -20,6 +20,9 @@
     
 </div>
 
+<img align="right" src="https://user-images.githubusercontent.com/102542187/204383993-a178a42a-4564-4eca-a03a-63a1b02f4fc9.png"/>
+
+ 
 <h3>Skills</h3>
 
 <div align="left">
