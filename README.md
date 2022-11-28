@@ -55,16 +55,34 @@
 
 <br/>
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
-
 <div align="left"> 
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+  
+</div>
+
+<hr>
+
+<p align="center">
+  <i>"Melhor professor, o fracasso é."  </br> -Yoda</i>
+
+  <div align="center">
     
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfray/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielfray_dev)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/330007901718577153)
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Gabriel%20Fray)
     
-</div>
+  </div>
 
+  <div align="center">
+      <img  src="https://komarev.com/ghpvc/?username=GabrielFray&style=flat-square&color=blue" width="15%"/>
+  </div>
+
+<div align="center"> 
+  
+![Snake animation](https://github.com/GabrielFray/gabrielfray/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
