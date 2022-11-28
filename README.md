@@ -1,45 +1,67 @@
-### Hi There! I'm Gabriel Fray  <img height="30em" src=https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Gabriel+Fray;I'm+20+years+old;I'm+from+Brazil;I'm+currently+a+student+of+Full+Stack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<ul>
-    <li> 🔭  I am currently a Full Stack Development student at <a href="https://kenzie.com.br/?trk_src=g&trk_cmp=15853756022&trk_grp=137371409172&trk_ad=574454391791&trk_kw=kenzie%20academy&utm_term=kenzie%20academy&utm_campaign=INSC-PER-2022-TERMOS-MARCA-SEARCH&utm_source=adwords&utm_medium=ppc&hsa_acc=2166776305&hsa_cam=15853756022&hsa_grp=137371409172&hsa_ad=574454391791&hsa_src=g&hsa_tgt=aud-1371784716651:kwd-392539756225&hsa_kw=kenzie%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw5ZSWBhCVARIsALERCvzjbrh1GPo7YPjoAgLAA75UcAP-YlGq8eeDyMdHR0o4OcRkNfRK-cYaArTsEALw_wcB">Kenzie Academy Brasil.</a></li>
-    <li> 📚 I'm currently learning <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> </li>
-    <li> 🦆 In case of a bug, talk to your duck </li>
-    <li> 📫 Contact me ⤵️ </li>
-</ul>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFray&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=B0C4DE&bg_color=0d1117" alt="Gabriel Fray github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&hide_border=true&title_color=1E90FF&text_color=B0C4DE&bg_color=0d1117" />
+</div>
 
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GabrielFray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center"> 
+    
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfray/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielfray_dev)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/330007901718577153)
   [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Gabriel%20Fray)
+    
+</div>
 
+<h3>Skills</h3>
 
+<div align="left">
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=1D1D1D" />
+  </div>
   
- ### Analycts
- <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielfray&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-
- 
-  <a href="https://github.com/GabrielFray">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=gabrielfray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <br/>
   
-  
-### Languages and tools I used in some of my projects
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<br/>
-<br/>
-  <p>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,py,django,git,figma,heroku,vercel,tailwind,postgres,docker,express,aws,jest,materialui,mongodb,prisma,vscode,vite" />
-    </a>
-  </p>
- <div>
-     
-  ![Snake animation](https://github.com/GabrielFray/gabrielfray/blob/output/github-contribution-grid-snake.svg)
-     
- </div>  
- <p><em>"Melhor professor, o fracasso é." <br/> -Yoda</em></p>
-<br>
- 
+  <h3>Front End</h3>
+  <div>
+    <img src="https://img.shields.io/badge/React-136f63?style=for-the-badge&logo=react&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=1D1D1D" />
+  </div>
+
+  <br/>
+
+  <h3>Back End</h3>
+  <div>
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Prima_ORM-2D3748?style=for-the-badge&logo=prisma&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Type_ORM-101010?style=for-the-badge&logo=typeorm&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/SQ_Lite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Mongo_DB-47A248?style=for-the-badge&logo=mongodb&labelColor=1D1D1D" />
+  </div>
+</div>
+
+  <br/>
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
