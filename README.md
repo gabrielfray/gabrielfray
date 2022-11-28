@@ -11,19 +11,12 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GabrielFray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"> 
-    
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfray/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielfray_dev)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/330007901718577153)
-  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Gabriel%20Fray)
-    
-</div>
 
-<img align="right" src="./dancing.gif"/>
 
  
 <h3>Skills</h3>
+
+<img align="right" src="./dacing.gif"/>
 
 <div align="left">
   <div>
@@ -47,9 +40,6 @@
     <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=1D1D1D" />
   </div>
-
-  <br/>
-
   <h3>Back End</h3>
   <div>
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D" />
@@ -63,8 +53,18 @@
   </div>
 </div>
 
-  <br/>
+<br/>
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+
+<div align="left"> 
+    
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfray/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielfray_dev)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/330007901718577153)
+  [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Gabriel%20Fray)
+    
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
