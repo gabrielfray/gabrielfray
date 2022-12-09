@@ -41,7 +41,7 @@
   <h3>Back-End</h3>
   <div>
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Prima_ORM-2D3748?style=for-the-badge&logo=prisma&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Type_ORM-101010?style=for-the-badge&logo=typeorm&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=1D1D1D" />
