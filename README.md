@@ -9,7 +9,9 @@
 </div>
 
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GabrielFray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielFray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 <h3>Skills</h3>
