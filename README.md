@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Gabriel+Fray;I'm+20+years+old;I'm+from+Brazil;I'm+currently+a+student+of+Full+Stack+Development.)](https://git.io/typing-svg)
 
-
+<!-- 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFray&show_icons=true&count_private=true&hide_border=true&title_color=50:1c2e84,100&icon_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" alt="Gabriel Fray github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&hide_border=true&title_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" />
 </div>
-
+ -->
 
 
 
