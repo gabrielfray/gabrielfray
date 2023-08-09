@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Gabriel+Fray;I'm+21+years+old;I'm+from+Brazil;I+work+as+a+Front-end+Developer+at+Performa_IT.)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFray&show_icons=true&count_private=true&hide_border=true&title_color=50:1c2e84,100&icon_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" alt="Gabriel Fray github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfray&show_icons=true&count_private=true&hide_border=true&title_color=50:1c2e84,100&icon_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" alt="Gabriel Fray github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&hide_border=true&title_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" />
 </div>
  
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielFray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielfray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 <h3>Skills</h3>
@@ -77,12 +77,12 @@
   </div>
 
   <div align="center">
-      <img  src="https://komarev.com/ghpvc/?username=GabrielFray&style=flat-square&color=blue" width="15%"/>
+      <img  src="https://komarev.com/ghpvc/?username=gabrielfray&style=flat-square&color=blue" width="15%"/>
   </div>
 
 <div align="center"> 
   
-![Snake animation](https://github.com/GabrielFray/gabrielfray/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielfray/gabrielfray/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
