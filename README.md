@@ -25,18 +25,26 @@
   </div>
   
   <br/>
+  <br/>
   
   <h3>Front-End</h3>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/React-136f63?style=for-the-badge&logo=react&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&labelColor=1D1D1D&logoColor=6332F6" alt="badge Swiper" />
     <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Radix_UI-101010?style=for-the-badge&logo=radix-ui&labelColor=1D1D1D" alt="badge Radix UI" />
+    
   </div>
+
+<br/>
+<br/>
+  
   <h3>Back-End</h3>
   <div>
     <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D" />
@@ -51,12 +59,13 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="left"> 
   
-<!-- [![Spotify](https://novatorem-44ecrzuaq-gabrielfray.vercel.app/api/spotify)](https://open.spotify.com/user/pablogamer2002) -->
+<!-- [![Spotify](https://novatorem-44ecrzuaq-gabrielfray.vercel.app/api/spotify)](https://open.spotify.com/user/pablogamer2002) 
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu) 
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu) -->
   
 </div>
 
