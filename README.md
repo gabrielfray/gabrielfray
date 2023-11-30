@@ -1,17 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:003CBB,100&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0C4DE&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Gabriel+Fray;I'm+21+years+old;I'm+from+Brazil;I'm+Software+Enginner.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003CBB&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Gabriel+Fray;I'm+21+years+old;I'm+from+Brazil;I'm+Software+Enginner.)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfray&show_icons=true&count_private=true&hide_border=true&title_color=50:1c2e84,100&icon_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" alt="Gabriel Fray github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&hide_border=true&title_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfray&show_icons=true&count_private=true&hide_border=true&title_color=50:003CBB,100&icon_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" alt="Gabriel Fray github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&hide_border=true&title_color=50:003CBB,100&text_color=B0C4DE&bg_color=0d1117" />
 </div>
  
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielfray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
  
 <h3>Skills</h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/gabrielfray/gabrielfray/assets/102542187/6fb8c50d-8cc8-4722-9459-eb88a7f9d829" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <!-- <img align="right" src="./dacing.gif"/> -->
 
@@ -84,4 +84,4 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:1c2e84,100&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50:003CBB,100&height=120&section=footer"/>
