@@ -7,11 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&hide_border=true&title_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" />
 </div>
  
-
-
-
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielfray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
  
 <h3>Skills</h3>
 
@@ -84,7 +80,7 @@
 
 <div align="center"> 
   
-![Snake animation](https://github.com/gabrielfray/gabrielfray/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/gabrielfray/gabrielfray/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
