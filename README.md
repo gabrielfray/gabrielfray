@@ -31,14 +31,18 @@
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/React-136f63?style=for-the-badge&logo=react&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&labelColor=1D1D1D&logoColor=6332F6" alt="badge Swiper" />
     <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Radix_UI-101010?style=for-the-badge&logo=radix-ui&labelColor=1D1D1D" alt="badge Radix UI" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&labelColor=1D1D1D" alt="badge SASS" />
+    
     
   </div>
 
