@@ -92,8 +92,7 @@
   </div>
 
 <div align="center"> 
-  
-<!-- ![Snake animation](https://github.com/gabrielfray/gabrielfray/blob/output/github-contribution-grid-snake.svg) -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielfray/gabrielfray/output/github-contribution-grid-snake-dark.svg">
