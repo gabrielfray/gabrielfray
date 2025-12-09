@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003CBB&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Gabriel+Fray;I'm+23+years+old;I'm+from+Brazil;I'm+Software+Enginner.)](https://git.io/typing-svg)
 
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfray&show_icons=true&count_private=true&hide_border=true&title_color=50:003CBB,100&icon_color=50:1c2e84,100&text_color=B0C4DE&bg_color=0d1117" alt="Gabriel Fray github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFray&layout=compact&hide_border=true&title_color=50:003CBB,100&text_color=B0C4DE&bg_color=0d1117" />
-</div>
+</div> -->
  
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabrielfray&bg_color=0d1117&color=146bdb&line=1310c6&point=8abdff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
  
